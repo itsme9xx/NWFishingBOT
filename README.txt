@@ -1,5 +1,5 @@
 Đây là 1 source để tham khảo , mình lười add gitignore nên đã xoá Lib , các bạn muốn xài thì mình khuyên lên tải python 3.11 và cài các libs trong requirements.txt vào trong env để đảm bảo source không bị lỗi 
-Nếu các bạn muốn xài luôn mà không cần phải tải thêm bất cứ thứ gì , chỉ việc chạy thì hãy tải file exe ở đường link này : https://drive.google.com/file/d/1CCDcs9JcuUTPDO8csLXkpodpe5o7M5Z3/view?usp=sharing , token để vào thì liên hệ fb mình : https://www.facebook.com/itsme.9x/
+Nếu các bạn muốn xài luôn mà không cần phải tải thêm bất cứ thứ gì , chỉ việc chạy thì hãy tải file exe ở đường link này : https://drive.google.com/file/d/1jSmy66yOZS8PLGMxvBesxVuvznlaaU1E/view?usp=sharing , token để vào thì liên hệ fb mình : https://www.facebook.com/itsme.9x/
 Source này có thể áp dụng ở bất kì con game nào đòi hỏi bắt sự kiện hình ảnh để thao tác . Chúc các bạn thành công !
 
 
